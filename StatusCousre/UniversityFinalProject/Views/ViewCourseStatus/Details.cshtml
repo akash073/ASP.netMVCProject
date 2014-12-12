@@ -1,0 +1,26 @@
+﻿@model UniversityFinalProject.Models.ViewCourseStatus
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ViewCourseStatus</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CourseAssignDepartment.Code)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CourseAssignDepartment.Code)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ViewCourseStatusId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

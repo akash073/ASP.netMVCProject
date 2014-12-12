@@ -1,0 +1,330 @@
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\DepartmentMVCApp.dll.config
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\DepartmentMVCApp.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\DepartmentMVCApp.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Antlr3.Runtime.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\EntityFramework.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\EntityFramework.SqlServer.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Newtonsoft.Json.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Owin.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.Helpers.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.Mvc.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.Optimization.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.Razor.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.WebPages.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.WebPages.Razor.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\WebGrease.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.Helpers.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.Mvc.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.Optimization.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.Razor.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.WebPages.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\System.Web.WebPages.Razor.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Newtonsoft.Json.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Antlr3.Runtime.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\EntityFramework.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\EntityFramework.SqlServer.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.dll
+c:\users\nadim\documents\visual studio 2013\Projects\DepartmentMVCApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\DepartmentMVCApp.dll.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\DepartmentMVCApp.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\DepartmentMVCApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Antlr3.Runtime.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\EntityFramework.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\EntityFramework.SqlServer.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Google.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Web.Infrastructure.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Newtonsoft.Json.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Owin.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.Helpers.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.Mvc.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.Optimization.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.Razor.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.WebPages.Deployment.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.WebPages.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.WebPages.Razor.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\WebGrease.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.Helpers.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.Mvc.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.Optimization.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.Razor.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.WebPages.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.WebPages.Deployment.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\System.Web.WebPages.Razor.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Newtonsoft.Json.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Antlr3.Runtime.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\EntityFramework.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\EntityFramework.SqlServer.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Google.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCNotUsingControllerApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.pdb
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\DepartmentMVCApp.dll.config
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\DepartmentMVCApp.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\DepartmentMVCApp.pdb
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\EntityFramework.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Owin.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.Helpers.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.Mvc.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.Optimization.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.Razor.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.WebPages.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\WebGrease.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.Helpers.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.Mvc.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.Optimization.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.Razor.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.WebPages.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\EntityFramework.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.csprojResolveAssemblyReference.cache
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCNotUsingDBContextApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.pdb
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.csprojResolveAssemblyReference.cache
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\DepartmentMVCApp.dll.config
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\DepartmentMVCApp.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\DepartmentMVCApp.pdb
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\EntityFramework.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Owin.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.Helpers.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.Mvc.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.Optimization.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.Razor.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.WebPages.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\WebGrease.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.Helpers.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.Mvc.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.Optimization.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.Razor.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.WebPages.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\EntityFramework.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDBContainerApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.pdb
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\DepartmentMVCApp.dll.config
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\DepartmentMVCApp.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\DepartmentMVCApp.pdb
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Antlr3.Runtime.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\EntityFramework.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Newtonsoft.Json.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Owin.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Helpers.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Mvc.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Optimization.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Razor.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.WebPages.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\WebGrease.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Helpers.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Mvc.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Optimization.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Razor.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.WebPages.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Newtonsoft.Json.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\EntityFramework.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.csprojResolveAssemblyReference.cache
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.dll
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\DepartmentMVCApp.dll.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\DepartmentMVCApp.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\DepartmentMVCApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Antlr3.Runtime.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\EntityFramework.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\EntityFramework.SqlServer.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Google.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Web.Infrastructure.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Newtonsoft.Json.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Owin.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Helpers.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Mvc.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Optimization.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Razor.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.WebPages.Deployment.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.WebPages.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.WebPages.Razor.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\WebGrease.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Helpers.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Mvc.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Optimization.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.Razor.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.WebPages.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.WebPages.Deployment.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\System.Web.WebPages.Razor.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Newtonsoft.Json.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Antlr3.Runtime.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\EntityFramework.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\EntityFramework.SqlServer.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Google.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\ASP.netMVCProject\DepartmentMVCGetDataFromDatabaseApp\DepartmentMVCApp\obj\Debug\DepartmentMVCApp.pdb

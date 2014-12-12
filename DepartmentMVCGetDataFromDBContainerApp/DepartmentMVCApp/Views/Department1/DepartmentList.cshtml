@@ -1,0 +1,11 @@
+﻿@using DepartmentMVCApp.Models
+@model List<DepartmentMVCApp.Models.Department>
+@{
+
+
+    foreach (Department aDepartment in Model)
+    {
+        @aDepartment.Code @aDepartment.Name     <br />
+
+    }
+}
